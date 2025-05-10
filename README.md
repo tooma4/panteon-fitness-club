@@ -2,6 +2,8 @@
 
 «Фитнес-клуб Panteon — лендинг с записью на тренировки (React + TypeScript + Redux)».
 
+[Макет в figma](https://www.figma.com/design/6zMmYzEZPkpYFcTi0YXYno/Panteon--Copy-?node-id=406-266&t=08REvL3xOSyICwF0-4)
+
 ### Стек: React + TypeScript + SASS
 
 ## Структура:
@@ -9,7 +11,6 @@
 - src/ — корневой каталог
 - src/components/ — каталог компонентов
 - src/scss/ — каталог переменных и стилей SCSS
-- src/services/ — каталог служебных файлов
 - src/stories/ — каталог Storybook
 
 ## Важные файлы:
