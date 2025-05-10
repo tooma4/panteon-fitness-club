@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Проект panteon-fitness-club
 
 «Фитнес-клуб Panteon — лендинг с записью на тренировки (React + TypeScript + Redux)».
@@ -61,9 +60,3 @@ npm run commit
 ```
 npm run storybook
 ```
-
----
-=======
-# panteon-fitness-club
-«Фитнес-клуб Panteon — лендинг с записью на тренировки (React + TypeScript + Redux)».
->>>>>>> 5a04172cf43d4860af28a387a42714bbf1ae5587
