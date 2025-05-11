@@ -1,0 +1,30 @@
+@use 'variables' as *;
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body {
+	scroll-behavior: smooth;
+	color: $secondary-font-color;
+	background-color: $primary-background-color;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style-type: none;
+}
+
+h1 {
+    font-size: $hero-title-size;
+    font-family: 'Montserrat';
+	font-weight: 700;
+    font-size: 58px;
+    line-height: 68px;
+    text-align: center; 
+}
