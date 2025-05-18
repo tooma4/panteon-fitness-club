@@ -1,5 +1,3 @@
-@import url(../assets/fonts/font.scss);
-
 $primary-background-color: #FFFFFF;
 $secondary-background-color: #0C1417;
 
@@ -10,15 +8,15 @@ $semi-transparent-secondary-font-color: #0C141780;
 
 $hero-title-size: clamp(48px, 20vw, 64px);
 $hero-description-size: clamp(20px, 20vw, 28px);
-$button-text-size: clamp(16px, 20vw, 16px);
+$button-text-size: 16px;
 $title-size: clamp(25px, 20vw, 30px);
 $sub-title-size: clamp(20px, 20vw, 24px);
-$description-size: clamp(16px, 20vw, 16px);
-$label-size: clamp(18px, 20vw, 18px);
-$label-description-size: clamp(15px, 20vw, 15px);
-$disclaimer-size: clamp(14px, 20vw, 14px);
+$description-size: 16px;
+$label-size: 18px;
+$label-description-size: 15px;
+$disclaimer-size: 14px;
 
-$font-family: 'Montserrat';
+$font-family: 'Montserrat', sans-serif;
 
 
 

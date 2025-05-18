@@ -22,9 +22,8 @@ li {
 
 h1 {
     font-size: $hero-title-size;
-    font-family: 'Montserrat';
+    font-family: $font-family;
 	font-weight: 700;
-    font-size: 58px;
-    line-height: 68px;
+    line-height: 1.5;
     text-align: center; 
 }
