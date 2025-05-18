@@ -1,0 +1,26 @@
+@use '../assets/fonts/font' as *;
+
+$primary-background-color: #FFFFFF;
+$secondary-background-color: #0C1417;
+
+$primary-font-color: #FFFFFF;
+$secondary-font-color: #0C1417;
+$accent-font-color: #F7931E;
+$semi-transparent-secondary-font-color: #0C141780;
+
+$hero-title-size: clamp(48px, 20vw, 64px);
+$hero-description-size: clamp(20px, 20vw, 28px);
+$button-text-size: 16px;
+$title-size: clamp(25px, 20vw, 30px);
+$sub-title-size: clamp(20px, 20vw, 24px);
+$description-size: 16px;
+$label-size: 18px;
+$label-description-size: 15px;
+$disclaimer-size: 14px;
+
+$font-family: 'Montserrat', sans-serif;
+
+
+
+
+
